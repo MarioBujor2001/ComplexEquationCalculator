@@ -1,5 +1,5 @@
 # CalculatorEcuatiiComplexe
-This calculator supports complex equations such as:
+This calculator supports complex equations such as:\n
 [40+(5-1)]*2 will return 88
 5 / 0 will warn the user 
 [(2*3)^2]/4-(6+2)#3, where x^y means x to the power of y and x#y means x square root of y, will return 7
