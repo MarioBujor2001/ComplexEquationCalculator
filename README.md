@@ -24,4 +24,4 @@ it can also process even more complex equations such as:
 [(100000.2 * 1.12) ^ (1.23 + 0.298)] # [(99999 / 3.3) - (1.9754 - 4.162673761)] will display 1.0005 
 
 The calculator also supports command line arguments and can be called like:
-oop.exe [4+(5-1)]*2
+"CalcEcuatii [4+(5-1)]*2"
